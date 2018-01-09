@@ -1,0 +1,10 @@
+C:\Users\ales\source\repos\AVLtree\AVLtree\bin\Debug\netcoreapp1.1\AVLtree.deps.json
+C:\Users\ales\source\repos\AVLtree\AVLtree\bin\Debug\netcoreapp1.1\AVLtree.runtimeconfig.json
+C:\Users\ales\source\repos\AVLtree\AVLtree\bin\Debug\netcoreapp1.1\AVLtree.runtimeconfig.dev.json
+C:\Users\ales\source\repos\AVLtree\AVLtree\bin\Debug\netcoreapp1.1\AVLtree.dll
+C:\Users\ales\source\repos\AVLtree\AVLtree\bin\Debug\netcoreapp1.1\AVLtree.pdb
+C:\Users\ales\source\repos\AVLtree\AVLtree\obj\Debug\netcoreapp1.1\AVLtree.csprojResolveAssemblyReference.cache
+C:\Users\ales\source\repos\AVLtree\AVLtree\obj\Debug\netcoreapp1.1\AVLtree.csproj.CoreCompileInputs.cache
+C:\Users\ales\source\repos\AVLtree\AVLtree\obj\Debug\netcoreapp1.1\AVLtree.AssemblyInfo.cs
+C:\Users\ales\source\repos\AVLtree\AVLtree\obj\Debug\netcoreapp1.1\AVLtree.dll
+C:\Users\ales\source\repos\AVLtree\AVLtree\obj\Debug\netcoreapp1.1\AVLtree.pdb
